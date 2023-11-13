@@ -101,7 +101,6 @@ PySocks @ file:///C:/ci_310/pysocks_1642089375450/work
 python-dateutil @ file:///tmp/build/80754af9/python-dateutil_1626374649649/work
 python-json-logger @ file:///C:/b/abs_cblnsm6puj/croot/python-json-logger_1683824130469/work
 pytz @ file:///C:/b/abs_22fofvpn1x/croot/pytz_1671698059864/work
-
 pywinpty @ file:///C:/b/abs_73vshmevwq/croot/pywinpty_1677609966356/work/target/wheels/pywinpty-2.0.10-cp310-none-win_amd64.whl
 PyYAML @ file:///C:/b/abs_d0g7dqt2xw/croot/pyyaml_1670514768165/work
 pyzmq==25.1.1
@@ -119,7 +118,6 @@ six @ file:///tmp/build/80754af9/six_1644875935023/work
 sniffio @ file:///C:/ci_310/sniffio_1642092172680/work
 soupsieve @ file:///C:/b/abs_a989exj3q6/croot/soupsieve_1680518492466/work
 stack-data @ file:///opt/conda/conda-bld/stack_data_1646927590127/work
-terminado @ file:///C:/b/abs_25nakickad/croot/terminado_1671751845491/work
 threadpoolctl @ file:///Users/ktietz/demo/mc3/conda-bld/threadpoolctl_1629802263681/work
 tinycss2 @ file:///C:/b/abs_52w5vfuaax/croot/tinycss2_1668168823131/work
 toml @ file:///tmp/build/80754af9/toml_1616166611790/work
