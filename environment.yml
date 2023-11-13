@@ -138,7 +138,7 @@ dependencies:
   - python-fastjsonschema=2.16.2=py310haa95532_0
   - python-json-logger=2.0.7=py310haa95532_0
   - pytz=2022.7=py310haa95532_0
-  - pywin32=305=py310h2bbff1b_0
+  #- pywin32=305=py310h2bbff1b_0
   - pywinpty=2.0.10=py310h5da7b33_0
   - pyyaml=6.0=py310h2bbff1b_1
   - qt-main=5.15.2=he8e5bd7_8
@@ -160,7 +160,7 @@ dependencies:
   - sqlite=3.41.2=h2bbff1b_0
   - stack_data=0.2.0=pyhd3eb1b0_0
   - tbb=2021.8.0=h59b6b97_0
-  - terminado=0.17.1=py310haa95532_0
+  #- terminado=0.17.1=py310haa95532_0
   - threadpoolctl=2.2.0=pyh0d69192_0
   - tinycss2=1.2.1=py310haa95532_0
   - tk=8.6.12=h2bbff1b_0
