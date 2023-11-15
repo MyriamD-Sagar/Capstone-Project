@@ -45,7 +45,7 @@ The following provides a hierarchical list of the folders and files of the .zip 
 
 ## User Guide 
 This section provides well-defined steps to install and use the data product from a Windows 10 machine.
-1. Extract the .zip file (capstone_project) attached to the project’s submission and note the directory’s path.
+1. Download this repo and note the directory's path.
 2. Download and install Miniconda for Windows (Python version 3.10) at this URL: https://docs.conda.io/projects/miniconda/en/latest/miniconda-other-installer-links.html#windows-installers
 3. Open your Anaconda Prompt (Miniconda3)
 4. Navigate to the directory noted in step 1.
