@@ -1,4 +1,4 @@
-# WGU Capstone-Project
+# CustomerAttrition Prediction - Capstone Project
 
 ## Bank Customer Attrition Prediction Application 
 Stand-alone application developed using a Python programming environment for WGU Capstone project.  
